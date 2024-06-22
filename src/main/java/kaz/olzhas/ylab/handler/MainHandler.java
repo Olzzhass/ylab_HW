@@ -10,6 +10,7 @@ public class MainHandler {
         System.out.println("3. Выключить приложение");
     }
 
+    //Метод для выхода из программы.
     public void quit(){
         System.out.println("До скорой встречи!");
         System.exit(0);
